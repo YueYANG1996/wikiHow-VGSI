@@ -7,7 +7,7 @@ The dataset is available [here](https://drive.google.com/drive/folders/1hjjcNSUS
 * **WikihowText_data.json**: json file of the textual annotation data, each line has the following structure: 
 
 ```
-{'file_id': ARTICLE ID (str, e.g. 10000798),
+{'file_id': article ID (str, e.g. 10000798),
  'goal': textual goal (str, e.g. 'How to Hang an Ironing Board'),
  'goal_description': description of the goal (str),
  'category_hierarchy': (list of str),
