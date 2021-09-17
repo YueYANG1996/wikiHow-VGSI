@@ -35,7 +35,7 @@ for line in open("WikihowText_data.json", "r"):
 To be released soon.
 
 ## Cite
-Please cite our work if you think useful, thank you!
+Please cite our work if you think it is useful. Thank you!
 
 ```
 @article{yang2021visual,
