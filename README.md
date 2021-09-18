@@ -1,8 +1,11 @@
 # wikiHow-VGSI
 
 The dataset and baseline model of EMNLP 2021 paper [Visual Goal-Step Inference using wikiHow](https://arxiv.org/abs/2104.05845).
-<img src="images/intro_example.png" alt="drawing" width="400"/>
 
+<p float="left">
+  <img src="images/sim_2.png" width="400" />
+  <img src="images/cat_2.png" width="400" /> 
+</p>
 
 
 ## Dataset
