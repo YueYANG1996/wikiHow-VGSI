@@ -40,7 +40,7 @@ for line in open("WikihowText_data.json", "r"):
 ```
 
 ## Baseline Models
-To be released soon.
+Check this [notebook](https://colab.research.google.com/drive/1icPEkzpcRn4OvTY8rVjDqMtMf76JmdO7?usp=sharing) for the baseline model.
 
 ## Cite
 Please cite our work if you think it is useful. Thank you!
