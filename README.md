@@ -42,6 +42,9 @@ for line in open("WikihowText_data.json", "r"):
 ## Baseline Models
 Check this [notebook](https://colab.research.google.com/drive/1icPEkzpcRn4OvTY8rVjDqMtMf76JmdO7?usp=sharing) for the baseline model.
 
+## Board Game
+There is a `wikiHow to Meme` board game which is similar to our VGSI task. During each round of the game, an image card describing a step is given and each player needs to select one textual card describing a goal which is the most suitable to the image card. [Here](https://wikihow.shopping/products/wikihow-meme-game) is the purchasing link of the game. There is also a [printable version](https://mcusercontent.com/7d3ca675de04729b75ecca92b/files/d4d290a6-7c9e-5c3f-3544-c953d62777bb/wikiHow_to_Meme_Print_and_Play_User_Guide.pdf?mc_cid=0b12b9cb34&mc_eid=2263cd265d).
+
 ## Cite
 Please cite our work if you think it is useful. Thank you!
 
