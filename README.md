@@ -39,6 +39,8 @@ for line in open("WikihowText_data.json", "r"):
     articles.append(json.loads(line))
 ```
 
+* **samples**: check this [folder](https://drive.google.com/drive/folders/1HSQAMFzyKUN2Thfs0hcM8FzACeHiO81l?usp=sharing) which contains the train/test examples from 3 sampling methods.
+
 ## Baseline Models
 Check this [notebook](https://colab.research.google.com/drive/1icPEkzpcRn4OvTY8rVjDqMtMf76JmdO7?usp=sharing) for the baseline model.
 
